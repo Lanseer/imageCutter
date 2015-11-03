@@ -23,6 +23,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    self.view.backgroundColor=[UIColor whiteColor];
     self.title=@"头像";
     //头像
     userHeadImageBtn=[UIButton buttonWithType:(UIButtonTypeCustom)];
