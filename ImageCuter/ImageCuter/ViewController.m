@@ -9,8 +9,6 @@
 #import "ViewController.h"
 #import "CroperViewController.h"
 
-
-
 @interface ViewController ()
 {
 
